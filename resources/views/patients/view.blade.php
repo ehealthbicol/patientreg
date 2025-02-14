@@ -9,7 +9,7 @@
 </head>
 <body class="dark:bg-gray-900">
 
-    <h1 class="text-5xl font-extrabold dark:text-white">Patients Record</h1><br><br>
+    <h1 class="text-5xl font-extrabold dark:text-white">Patient Record</h1><br><br>
     <div>
         @if($errors->any())
         <ul>
